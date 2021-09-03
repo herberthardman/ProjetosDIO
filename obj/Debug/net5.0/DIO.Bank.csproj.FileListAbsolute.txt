@@ -1,0 +1,16 @@
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\dotNetPrimeirosPasos\Projetos\MyContaBancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
